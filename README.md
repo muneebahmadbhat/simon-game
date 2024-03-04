@@ -1,1 +1,1 @@
-# simon-game
+# simon-game using j-query
